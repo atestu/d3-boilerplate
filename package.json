@@ -1,6 +1,7 @@
 {
   "name": "d3-boilerplate",
   "devDependencies": {
+    "bower": "^1.4.1",
     "grunt": "~0.4.1",
     "grunt-contrib-less": "~0.5.2",
     "grunt-contrib-watch": "~0.4.4"
